@@ -123,7 +123,3 @@ type SponsorshipTier = {
   monthlyPriceInCents: number
 }
 ```
-
-## License
-
-MIT @ Matic Zavadlal
